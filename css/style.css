@@ -1,0 +1,46 @@
+body {
+	font-family: 'Calibri', sans-serif;
+	font-color: #000000;
+	
+}
+h1{
+	text-align: center;
+}
+ul[class="datos"]
+{
+	list-style-type:none;
+}
+ul[class="informacion"]
+{
+	list-style-type:none;
+}
+div[class="datos"]
+{
+    width: 25%;
+    float: left;
+}
+
+div[class="informacion"]{
+
+    width: 100%;
+    float: initial;
+    margin-top: 36px;
+}
+
+div[class="secciones"]{
+
+    width: 100%;
+    float: left;
+    margin-left: 100px;
+}
+
+img[class="cv"]
+{
+	width:130px; 
+	height:200px;"
+	border-radius: 20px;
+	float: right;
+    margin-top: 35px;
+    margin-right: 200px;
+}
+
